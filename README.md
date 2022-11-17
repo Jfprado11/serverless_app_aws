@@ -1,3 +1,3 @@
 # serverless_app_aws
 
-this respo in just for learning purposes
+this repo in just for learning purposes
